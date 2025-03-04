@@ -10,7 +10,7 @@ I love building RESTful applications, working with Java, and exploring new techn
 
 - **Backend:** Java, Spring Boot, REST API, JDBC, Servlets
 - **Frontend:** HTML, CSS, JavaScript
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub
 - **Tools & Frameworks:** Maven, Postman, cURL, JUnit
 
